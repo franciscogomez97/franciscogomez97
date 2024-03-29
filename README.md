@@ -22,13 +22,11 @@ Hi, I'm Francisco Gómez!
 <hr>
 
 <pre>
-💻 I am a self taught Full Stack Developer and a Machine Learning Developer
-📚 I have a Bachelors in Computer Science from the University Cadi Ayyad at Morocco
-📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, JavaScript
-🚩 Interested in Full Stack Machine Learning Application development
+💻 I am a Software Developer focused in BackEnd and APIs
+📝 I have a strong interest in DevOps technologies and methodologies
+🔭 Working on API design and development. Integration and Deployment
+🌱 Learning about Laravel, Dockers, Kubernetes, CI/CD
+🌟 Main languages: PHP (Laravel), MySQL
 </pre>
 <hr>
 
@@ -94,9 +92,9 @@ Hi, I'm Francisco Gómez!
 <summary><b>⚡ Bouaskaoun's Stats</b></summary>
 <br/>
 <p align="center">
-	<a href="https://github.com/Bouaskaoun">
-	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=bouaskaoun&show_icons=true" alt="bouaskaoun">
-	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=bouaskaoun" alt="bouaskaoun">
+	<a href="https://github.com/franciscogomez97">
+	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=franciscogomez97&show_icons=true" alt="franciscogomez97">
+	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=franciscogomez97" alt="franciscogomez97">
 	</a>
 	<br/>
 </p>
@@ -115,8 +113,8 @@ Hi, I'm Francisco Gómez!
 <br/>
 
 <p align="center">
-	<a href="https://github.com/Bouaskaoun">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bouaskaoun&langs_count=8&layout=compact" alt="bouaskaoun">
+	<a href="https://github.com/franciscogomez97">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscogomez97&langs_count=8&layout=compact" alt="franciscogomez97">
 	</a>
 	<br/>
 <br/>
