@@ -15,7 +15,7 @@ Hi, I'm Francisco Gómez!
 <br/>
 <p align="center">
 	<a href="https://github.com/franciscogomez97">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;%20API%20Specialist;Server%Management&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;%20API%20Specialist;Server Management&center=true&width=380&height=45">
 	</a>
 </p>
 
