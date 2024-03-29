@@ -6,9 +6,9 @@ Hi, I'm Francisco Gómez!
 </h1>
 <p align="center">
 	<a href="https://github.com/franciscogomez97">
-		<img src="https://komarev.com/ghpvc/?username=bouaskaoun&label=Profile%20views&color=0e75b6&style=flat" alt="bouaskaoun" />
+		<img src="https://komarev.com/ghpvc/?username=franciscogomez97&label=Profile%20views&color=0e75b6&style=flat" alt="franciscogomez97" />
 	</a>
-	<a href="https://github.com/Bouaskaoun">
+	<a href="https://github.com/franciscogomez97">
 		<img src="https://img.shields.io/github/followers/franciscogomez97?label=Followers" alt="franciscogomez97" />
 	</a>
 </p>
