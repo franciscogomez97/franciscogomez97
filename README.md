@@ -43,13 +43,13 @@ Hi, I'm Francisco Gómez!
 
 <p>
     <a href="https://github.com/franciscogomez97"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/franciscogomez97"><img alt="PHP" src="https://img.shields.io/badge/PHP%20-%2314354C.svg?logo=php&logoColor=black"></a>
+    <a href="https://github.com/franciscogomez97"><img alt="PHP" src="https://img.shields.io/badge/PHP%20-%2314354C.svg?logo=PHP&logoColor=white"></a>
 
 ### 🧰 Frameworks and Libraries
 
 <p>
-    <a href="https://github.com/franciscogomez97"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>
-    <a href="https://github.com/franciscogomez97"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
+    <a href="https://github.com/franciscogomez97"><img alt="Laravel" src="https://img.shields.io/badge/Laravel%20-%23D00000.svg?logo=Laravel&logoColor=white"></a>
+    <a href="https://github.com/franciscogomez97"><img alt="JQuery" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=jquery&logoColor=white"></a>
     <a href="https://github.com/franciscogomez97"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
     <a href="https://github.com/franciscogomez97"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
     <a href="https://github.com/franciscogomez97"><img alt="Angular" src="https://img.shields.io/badge/Angular%20-%23D00000.svg?logo=Angular&logoColor=white"></a>
