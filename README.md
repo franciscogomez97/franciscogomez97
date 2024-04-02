@@ -58,7 +58,7 @@ Hi, I'm Francisco Gómez!
 
 <p>
     <a href="https://github.com/franciscogomez97"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="https://github.com/franciscogomez97"><img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-%4285F4.svg?logo=googlecloud&logoColor=white"></a>
+    <a href="https://github.com/franciscogomez97"><img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-%23327FC8.svg?logo=googlecloud&logoColor=white"></a>
 </p>
 
 ### 💻 Software and Tools
