@@ -44,7 +44,10 @@ Hi, I'm Francisco Gómez!
 <p>
 	<a href="https://github.com/franciscogomez97"><img alt="PHP" src="https://img.shields.io/badge/PHP%20-%2314354C.svg?logo=PHP&logoColor=white"></a>
 	<a href="https://github.com/franciscogomez97"><img alt="MySQL" src="https://img.shields.io/badge/MySQL%20-%2314354C.svg?logo=MySQL&logoColor=white"></a>
-    <a href="https://github.com/franciscogomez97"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    	<a href="https://github.com/franciscogomez97"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
+        <a href="https://github.com/franciscogomez97"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23F7DF1E.svg?logo=html&logoColor=black"></a>
+	<a href="https://github.com/franciscogomez97"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%23F7DF1E.svg?logo=css&logoColor=black"></a>
+	
 
 ### 🧰 Frameworks and Libraries
 
