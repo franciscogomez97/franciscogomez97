@@ -50,6 +50,7 @@ Hi, I'm Francisco Gómez!
 
 <p>
     <a href="https://github.com/franciscogomez97"><img alt="Laravel" src="https://img.shields.io/badge/Laravel%20-%23D00000.svg?logo=Laravel&logoColor=white"></a>
+    <a href="https://github.com/franciscogomez97"><img alt="JQuery" src="https://img.shields.io/badge/Jquery%20-%23150458.svg?logo=jquery&logoColor=white"></a>
     <a href="https://github.com/franciscogomez97"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23150458.svg?logo=Bootstrap&logoColor=white"></a>
 </p>
 
