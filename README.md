@@ -40,23 +40,24 @@ Hi, I'm Francisco Gómez!
 
 ### 👨‍💻 Programming Languages
 
-| JAVA        | PHP         | MySQL       | JavaScript  |
-|-------------|-------------|-------------|-------------|
+| 💻 JAVA     | 💻 PHP      | 💻 MySQL    | 💻 JavaScript |
+|-------------|-------------|-------------|---------------|
 
 ### 🧰 Frameworks and Libraries
 
-| Laravel     | JQuery      | Bootstrap   | NodeJS      | Spring      |
-|-------------|-------------|-------------|-------------|-------------|
+| 🖥️ Laravel  | 🖥️ JQuery   | 🖥️ Bootstrap | 🖥️ NodeJS   | 🖥️ Spring   |
+|-------------|-------------|---------------|--------------|--------------|
 
 ### 🗄️ Databases and Cloud Hosting
 
-| GitHub Pages | Google Cloud | Docker      |
-|--------------|--------------|-------------|
+| 📦 GitHub Pages | 📦 Google Cloud | 📦 Docker   |
+|-----------------|-----------------|-------------|
 
 ### 💻 Software and Tools
 
-| Git         | Postman     | Stack Overflow | Visual Studio Code |
-|-------------|-------------|----------------|--------------------|
+| 🛠 Git      | 🛠 Postman  | 🛠 Stack Overflow | 🛠 Visual Studio Code |
+|-------------|-------------|-------------------|-----------------------|
+
 
 </br>
 
