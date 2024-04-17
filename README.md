@@ -40,31 +40,23 @@ Hi, I'm Francisco Gómez!
 
 ### 👨‍💻 Programming Languages
 
-- [JAVA](https://github.com/franciscogomez97)
-- [PHP](https://github.com/franciscogomez97)
-- [MySQL](https://github.com/franciscogomez97)
-- [JavaScript](https://github.com/franciscogomez97)
+| JAVA        | PHP         | MySQL       | JavaScript  |
+|-------------|-------------|-------------|-------------|
 
 ### 🧰 Frameworks and Libraries
 
-- [Laravel](https://github.com/franciscogomez97)
-- [JQuery](https://github.com/franciscogomez97)
-- [Bootstrap](https://github.com/franciscogomez97)
-- [NodeJS](https://github.com/franciscogomez97)
-- [Spring](https://github.com/franciscogomez97)
+| Laravel     | JQuery      | Bootstrap   | NodeJS      | Spring      |
+|-------------|-------------|-------------|-------------|-------------|
 
 ### 🗄️ Databases and Cloud Hosting
 
-- [GitHub Pages](https://github.com/franciscogomez97)
-- [Google Cloud](https://github.com/franciscogomez97)
-- [Docker](https://github.com/franciscogomez97)
+| GitHub Pages | Google Cloud | Docker      |
+|--------------|--------------|-------------|
 
 ### 💻 Software and Tools
 
-- [Git](https://github.com/franciscogomez97)
-- [Postman](https://github.com/franciscogomez97)
-- [Stack Overflow](https://github.com/franciscogomez97)
-- [Visual Studio Code](https://github.com/franciscogomez97)
+| Git         | Postman     | Stack Overflow | Visual Studio Code |
+|-------------|-------------|----------------|--------------------|
 
 </br>
 
