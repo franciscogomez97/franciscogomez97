@@ -45,13 +45,13 @@ Hi, I'm Francisco Gómez!
 
 ### 🧰 Frameworks and Libraries
 
-| 📖 Laravel  | 📖 JQuery   | 📖 Bootstrap | 📖 NodeJS   | 📖 Spring   | 📖 Spring Boot |
-|-------------|-------------|--------------|-------------|-------------|----------------|
+| 📖 Laravel  | 📖 JQuery   | 📖 Bootstrap | 📖 NodeJS   | 📖 Spring   | 📖 Spring Boot | 📖 Express.js |
+|-------------|-------------|--------------|-------------|-------------|----------------|---------------|
 
 ### 🗄️ Databases and Cloud Hosting
 
-| 📦 GitHub Pages | 📦 Google Cloud | 📦 Docker   |
-|-----------------|-----------------|-------------|
+| 📦 Google Cloud | 📦 Docker   | 📦 SQLite  | 📦 Navicat |
+|-----------------|-------------|------------|------------|
 
 ### 💻 Software and Tools
 
