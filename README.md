@@ -42,6 +42,7 @@ Hi, I'm Francisco Gómez!
 ### 👨‍💻 Programming Languages
 
 <p>
+	<a href="https://github.com/franciscogomez97"><img alt="JAVA" src="https://img.shields.io/badge/JAVA%20-%2314354C.svg?logo=JAVA&logoColor=white"></a>
 	<a href="https://github.com/franciscogomez97"><img alt="PHP" src="https://img.shields.io/badge/PHP%20-%2314354C.svg?logo=PHP&logoColor=white"></a>
 	<a href="https://github.com/franciscogomez97"><img alt="MySQL" src="https://img.shields.io/badge/MySQL%20-%2314354C.svg?logo=MySQL&logoColor=white"></a>
     	<a href="https://github.com/franciscogomez97"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
@@ -49,9 +50,12 @@ Hi, I'm Francisco Gómez!
 ### 🧰 Frameworks and Libraries
 
 <p>
-    <a href="https://github.com/franciscogomez97"><img alt="Laravel" src="https://img.shields.io/badge/Laravel%20-%23D00000.svg?logo=Laravel&logoColor=white"></a>
-    <a href="https://github.com/franciscogomez97"><img alt="JQuery" src="https://img.shields.io/badge/Jquery%20-%0769AD.svg?logo=jquery&logoColor=white"></a>
-    <a href="https://github.com/franciscogomez97"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23150458.svg?logo=Bootstrap&logoColor=white"></a>
+    	<a href="https://github.com/franciscogomez97"><img alt="Laravel" src="https://img.shields.io/badge/Laravel%20-%23D00000.svg?logo=Laravel&logoColor=white"></a>
+    	<a href="https://github.com/franciscogomez97"><img alt="JQuery" src="https://img.shields.io/badge/Jquery%20-%0769AD.svg?logo=jquery&logoColor=white"></a>
+    	<a href="https://github.com/franciscogomez97"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23150458.svg?logo=Bootstrap&logoColor=white"></a>
+    	<a href="https://github.com/franciscogomez97"><img alt="NodeJS" src="https://img.shields.io/badge/node%20-%23150458.svg?logo=node&logoColor=white"></a>
+        <a href="https://github.com/franciscogomez97"><img alt="Spring" src="https://img.shields.io/badge/spring%20-%23150458.svg?logo=spring&logoColor=white"></a>
+
 </p>
 
 ### 🗄️ Databases and Cloud Hosting
