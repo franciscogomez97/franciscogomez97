@@ -45,8 +45,8 @@ Hi, I'm Francisco Gómez!
 
 ### 🧰 Frameworks and Libraries
 
-| 🖥️ Laravel  | 🖥️ JQuery   | 🖥️ Bootstrap | 🖥️ NodeJS   | 🖥️ Spring   |
-|-------------|-------------|---------------|--------------|--------------|
+| 📖 Laravel  | 📖 JQuery   | 📖 Bootstrap | 📖 NodeJS   | 📖 Spring   | 📖 Spring Boot |
+|-------------|-------------|--------------|-------------|-------------|----------------|
 
 ### 🗄️ Databases and Cloud Hosting
 
@@ -57,7 +57,6 @@ Hi, I'm Francisco Gómez!
 
 | 🛠 Git      | 🛠 Postman  | 🛠 Stack Overflow | 🛠 Visual Studio Code |
 |-------------|-------------|-------------------|-----------------------|
-
 
 </br>
 
