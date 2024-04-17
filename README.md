@@ -23,10 +23,9 @@ Hi, I'm Francisco Gómez!
 
 <pre>
 💻 I am a Software Developer focused in BackEnd and APIs
-📝 I have a strong interest in DevOps technologies and methodologies
+📝 I have a strong interest in Java Spring Boot, DevOps technologies and methodologies
 🔭 Working on API design and development. Integration and Deployment
-🌱 Learning about Laravel, Dockers, Kubernetes, CI/CD
-🌟 Main languages: PHP (Laravel), MySQL
+🌱 Learning Java, Spring, Spring Boot, Spring Cloud, Dockers, Kubernetes, CI/CD
 </pre>
 <hr>
 
@@ -41,39 +40,32 @@ Hi, I'm Francisco Gómez!
 
 ### 👨‍💻 Programming Languages
 
-<p>
-	<a href="https://github.com/franciscogomez97"><img alt="JAVA" src="https://img.shields.io/badge/JAVA%20-%2314354C.svg?logo=JAVA&logoColor=white"></a>
-	<a href="https://github.com/franciscogomez97"><img alt="PHP" src="https://img.shields.io/badge/PHP%20-%2314354C.svg?logo=PHP&logoColor=white"></a>
-	<a href="https://github.com/franciscogomez97"><img alt="MySQL" src="https://img.shields.io/badge/MySQL%20-%2314354C.svg?logo=MySQL&logoColor=white"></a>
-    	<a href="https://github.com/franciscogomez97"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
+- [JAVA](https://github.com/franciscogomez97)
+- [PHP](https://github.com/franciscogomez97)
+- [MySQL](https://github.com/franciscogomez97)
+- [JavaScript](https://github.com/franciscogomez97)
 
 ### 🧰 Frameworks and Libraries
 
-<p>
-    	<a href="https://github.com/franciscogomez97"><img alt="Laravel" src="https://img.shields.io/badge/Laravel%20-%23D00000.svg?logo=Laravel&logoColor=white"></a>
-    	<a href="https://github.com/franciscogomez97"><img alt="JQuery" src="https://img.shields.io/badge/Jquery%20-%0769AD.svg?logo=jquery&logoColor=white"></a>
-    	<a href="https://github.com/franciscogomez97"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23150458.svg?logo=Bootstrap&logoColor=white"></a>
-    	<a href="https://github.com/franciscogomez97"><img alt="NodeJS" src="https://img.shields.io/badge/node%20-%23150458.svg?logo=node&logoColor=white"></a>
-        <a href="https://github.com/franciscogomez97"><img alt="Spring" src="https://img.shields.io/badge/spring%20-%23150458.svg?logo=spring&logoColor=white"></a>
-
-</p>
+- [Laravel](https://github.com/franciscogomez97)
+- [JQuery](https://github.com/franciscogomez97)
+- [Bootstrap](https://github.com/franciscogomez97)
+- [NodeJS](https://github.com/franciscogomez97)
+- [Spring](https://github.com/franciscogomez97)
 
 ### 🗄️ Databases and Cloud Hosting
 
-<p>
-    <a href="https://github.com/franciscogomez97"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="https://github.com/franciscogomez97"><img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-%23327FC1.svg?logo=googlecloud&logoColor=white"></a>
-    <a href="https://github.com/franciscogomez97"><img alt="Docker" src="https://img.shields.io/badge/Docker%20-%23327FC1.svg?logo=docker&logoColor=white"></a>
-</p>
+- [GitHub Pages](https://github.com/franciscogomez97)
+- [Google Cloud](https://github.com/franciscogomez97)
+- [Docker](https://github.com/franciscogomez97)
 
 ### 💻 Software and Tools
 
-<p>
-    <a href="https://github.com/franciscogomez97"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-    <a href="https://github.com/franciscogomez97"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-    <a href="https://github.com/franciscogomez97"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-    <a href="https://github.com/franciscogomez97"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-</p>
+- [Git](https://github.com/franciscogomez97)
+- [Postman](https://github.com/franciscogomez97)
+- [Stack Overflow](https://github.com/franciscogomez97)
+- [Visual Studio Code](https://github.com/franciscogomez97)
+
 </br>
 
 ## <a href="https://github.com/franciscogomez97"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> GitHub Stats
