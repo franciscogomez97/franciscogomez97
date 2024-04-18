@@ -55,8 +55,8 @@ Hi, I'm Francisco Gómez!
 
 ### 💻 Software and Tools
 
-| 🛠 Git      | 🛠 Postman  | 🛠 Stack Overflow | 🛠 Visual Studio Code |
-|-------------|-------------|-------------------|-----------------------|
+| 🛠 Git      | 🛠 Postman  | 🛠 Stack Overflow | 🛠 Visual Studio Code | 🛠 IntelliJ |
+|-------------|-------------|-------------------|-----------------------|-------------|
 
 </br>
 
