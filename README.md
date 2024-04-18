@@ -60,7 +60,7 @@ Hi, I'm Francisco Gómez!
 
 </br>
 
-## <a href="https://github.com/franciscogomez97"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> GitHub Stats
+## GitHub Stats
 
 <br/>
 <summary><b>⚡ Fran's Stats</b></summary>
