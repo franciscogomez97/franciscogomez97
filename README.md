@@ -58,11 +58,8 @@ Hi, I'm Francisco Gómez!
 | 🛠 Git      | 🛠 Postman  | 🛠 Stack Overflow | 🛠 Visual Studio Code | 🛠 IntelliJ |
 |-------------|-------------|-------------------|-----------------------|-------------|
 
-</br>
+### 📊 GitHub Stats
 
-<br>
-<b>📊 GitHub Stats</b>
-</br>
 
 <br/>
 <summary><b>⚡ Fran's Stats</b></summary>
