@@ -60,7 +60,9 @@ Hi, I'm Francisco Gómez!
 
 </br>
 
-##📊 GitHub Stats
+<br>
+<b>📊 GitHub Stats</b>
+</br>
 
 <br/>
 <summary><b>⚡ Fran's Stats</b></summary>
